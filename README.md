@@ -19,3 +19,6 @@ Créez des modèles d'apprentissage automatique capables de prédire au mieux le
 Sous forme de notebook, étude de la répartition des courses uber sur la région étendue de New-York Objectif du projet : livrer un modèle de clustering capable de regrouper la demande en zones en fonction de leur densité, afin de permettre a uber de positionner ses chauffeurs selon le jour de la semaine et l'heure de la journée Outils : utilisation de modèles de clustering => KMeans & DBscan
 
 Localisation de zones de densité géographique par l'élaboration d'algorithmes d'apprentissage automatique non-supervisé.
+
+
+Bibliothèques: Scikit-learn, XGBoost, linear regression, regularization, logistic regression, decision trees, random forests, voting & boosting algorithms, gridsearch & cross validation, K-Means, DBSCAN, Gaussian Mixture, KNN
