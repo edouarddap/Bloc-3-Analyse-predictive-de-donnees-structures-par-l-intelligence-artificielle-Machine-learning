@@ -1,18 +1,18 @@
 # Machine-learning
-Bloc 3 : Analyse prédictive de données structurées par l'intelligence artificielle
+
 
 
     1: Walmart Sales
 
-Sous forme de notebook, étude du chiffre d'affaire hebdomadaire de Walmart sur 19 magasins. Objectif du projet : livrer un modèle capable de prédire ce chiffre d'affaire pour un magasin donné. Outils : utilisation d'un modèle de regression linéaire et de régularisations Ridge et Lasso pour combattre l'overfitting du premier modèle.
+Sous forme de notebook, étude du chiffre d'affaire hebdomadaire de Walmart sur 19 magasins. Objectif du projet : livrer un modèle capable de prédire ce chiffre d'affaire pour un magasin donné. Outils : utilisation d'un modèle de regression linéaire et de régularisations Ridge ou Lasso pour combattre l'overfitting du premier modèle.
 
-Optimisation des processus marketing de qualification de prospect par le biais d'algorithmes d'apprentissage supervisés.
+Estimer les ventes hebdomadaires en magasin en créant un modèle d'apprentissage automatique et expliquer les indicateurs économiques pour planifier les futures campagnes marketing
 
     2: Conversion Rate Challenge
 
 Sous forme de notebook, étude du taux de conversion d'un site web par utilisateur l'ayant fréquenté. Objectif du projet : livrer un modèle permettant d'obtenir un f1 score correct sachant que la variable cible connait un important déséquilibre. Outils : gridsearch cv, modèles de machine learning de classification, recherches google pour compenser un training sur une classe déséquilibrée.
 
-Optimisation d'algorithmes d'apprentissage automatique supervisé sur des bases de données déséquilibrées.
+Créez des modèles d'apprentissage automatique capables de prédire au mieux les taux de conversion d'une newsletter 
 
     3: Uber pickups
 
