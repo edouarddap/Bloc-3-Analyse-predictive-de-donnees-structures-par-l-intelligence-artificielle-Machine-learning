@@ -33,4 +33,5 @@ Outils : utilisation de modèles de clustering => KMeans & DBscan
 Localisation de zones de densité géographique par l'élaboration d'algorithmes d'apprentissage automatique non-supervisé.
 
 
-Bibliothèques: Scikit-learn, XGBoost, linear regression, regularization, logistic regression, decision trees, random forests, voting & boosting algorithms, gridsearch & cross validation, K-Means, DBSCAN, Gaussian Mixture, KNN
+
+.Bibliothèques: Scikit-learn, XGBoost, linear regression, regularization, logistic regression, decision trees, random forests, voting & boosting algorithms, gridsearch & cross validation, K-Means, DBSCAN, Gaussian Mixture, KNN
