@@ -4,7 +4,7 @@
 
     1: Walmart Sales
 
-Sous forme de notebook, étude du chiffre d'affaire hebdomadaire de Walmart sur 19 magasins. 
+Sous forme de notebook, étude du chiffre d'affaire hebdomadaire des magasins Walmart 
 
 Objectif du projet : Estimer les ventes hebdomadaires en magasin en créant un modèle d'apprentissage automatique et expliquer les indicateurs économiques pour planifier les futures campagnes marketing
 
