@@ -34,4 +34,4 @@ Localisation de zones de densité géographique par l'élaboration d'algorithmes
 
 
 
--- Bibliothèques: Scikit-learn, XGBoost, linear regression, regularization, logistic regression, decision trees, random forests, voting & boosting algorithms, gridsearch & cross validation, K-Means, DBSCAN, Gaussian Mixture, KNN
+_Bibliothèques: Scikit-learn, XGBoost, linear regression, regularization, logistic regression, decision trees, random forests, voting & boosting algorithms, gridsearch & cross validation, K-Means, DBSCAN, Gaussian Mixture, KNN_
