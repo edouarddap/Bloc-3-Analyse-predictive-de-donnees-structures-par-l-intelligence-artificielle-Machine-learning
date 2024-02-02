@@ -6,11 +6,11 @@
 
 Sous forme de notebook, étude du chiffre d'affaire hebdomadaire de Walmart sur 19 magasins. 
 
-Objectif du projet : livrer un modèle capable de prédire ce chiffre d'affaire pour un magasin donné. 
+Objectif du projet : Estimer les ventes hebdomadaires en magasin en créant un modèle d'apprentissage automatique et expliquer les indicateurs économiques pour planifier les futures campagnes marketing
 
 Outils : utilisation d'un modèle de regression linéaire et de régularisations Ridge ou Lasso pour combattre l'overfitting du premier modèle.
 
-Estimer les ventes hebdomadaires en magasin en créant un modèle d'apprentissage automatique et expliquer les indicateurs économiques pour planifier les futures campagnes marketing
+
 
     2: Conversion Rate Challenge
 
