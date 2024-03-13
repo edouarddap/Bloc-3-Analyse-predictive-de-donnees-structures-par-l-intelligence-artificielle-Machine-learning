@@ -45,4 +45,4 @@ Utilisation de modèles de clustering => KMeans & DBscan
 
 
 
-_Bibliothèques: Scikit-learn, XGBoost, linear regression, regularization, logistic regression, decision trees, random forests, voting & boosting algorithms, gridsearch & cross validation, K-Means, DBSCAN, Gaussian Mixture, KNN_
+_Bibliothèques: Scikit-learn, XGBoost, linear regression, regularization, logistic regression, decision trees, random forests, voting & boosting algorithms, gridsearch & cross validation, K-Means, DBSCAN, 
