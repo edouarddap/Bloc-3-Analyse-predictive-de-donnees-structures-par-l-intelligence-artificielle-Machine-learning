@@ -2,7 +2,7 @@
 
 
 
-    1: Walmart Sales
+    1: ## Walmart Sales
 
 Sous forme de notebook, étude du chiffre d'affaire hebdomadaire des magasins Walmart 
 
