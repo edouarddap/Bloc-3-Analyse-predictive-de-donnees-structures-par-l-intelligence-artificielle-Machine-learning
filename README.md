@@ -12,7 +12,7 @@ Estimer les ventes hebdomadaires en magasin en créant un modèle d'apprentissag
 
 #### Outils : 
 
-utilisation d'un modèle de regression linéaire et de régularisations Ridge ou Lasso pour combattre l'overfitting du premier modèle.
+Utilisation d'un modèle de regression linéaire et de régularisations Ridge ou Lasso pour combattre l'overfitting du premier modèle.
 
 
 
@@ -22,11 +22,12 @@ Etude du taux de conversion d'un site web par utilisateur l'ayant fréquenté.
 
 #### Objectif du projet : 
 
-Créez des modèles d'apprentissage automatique capables de prédire au mieux les taux de conversion d'une newsletter. livrer un modèle permettant d'obtenir un f1 score correct sachant que la variable cible connait un important déséquilibre. 
+Créez des modèles d'apprentissage automatique capables de prédire au mieux les taux de conversion d'une newsletter. 
+livrer un modèle permettant d'obtenir un f1 score correct sachant que la variable cible connait un important déséquilibre. 
 
 #### Outils : 
 
-gridsearch cv, modèles de machine learning de classification,
+Gridsearch cv, modèles de machine learning de classification,
 
 
 ## 3 Uber pickups
@@ -35,11 +36,12 @@ Etude de la répartition des courses uber sur la région étendue de New-York
 
 #### Objectif du projet : 
 
-Localisation de zones de densité géographique par l'élaboration d'algorithmes d'apprentissage automatique non-supervisé. livrer un modèle de clustering capable de regrouper la demande uber en fonction de leur densité, afin de permettre a uber de positionner ses chauffeurs selon le jour de la semaine et l'heure de la journée 
+Localisation de zones de densité géographique par l'élaboration d'algorithmes d'apprentissage automatique non-supervisé. 
+livrer un modèle de clustering capable de regrouper la demande uber en fonction de leur densité, afin de permettre a uber de positionner ses chauffeurs selon le jour de la semaine et l'heure de la journée 
 
 #### Outils : 
 
-utilisation de modèles de clustering => KMeans & DBscan
+Utilisation de modèles de clustering => KMeans & DBscan
 
 
 
