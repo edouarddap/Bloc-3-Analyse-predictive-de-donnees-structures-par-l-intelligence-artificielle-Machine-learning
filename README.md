@@ -18,7 +18,7 @@ Utilisation d'un modèle de regression linéaire et de régularisations Ridge ou
 
 ## 2 Conversion Rate Challenge
 
-Etude du taux de conversion d'un site web par utilisateur l'ayant fréquenté. 
+Etude du taux de conversion d'un site web en fonction des utilisateurs l'ayant fréquenté. 
 
 #### Objectif du projet : 
 
