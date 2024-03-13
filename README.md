@@ -23,7 +23,7 @@ Etude du taux de conversion d'un site web par utilisateur l'ayant fréquenté.
 #### Objectif du projet : 
 
 Créez des modèles d'apprentissage automatique capables de prédire au mieux les taux de conversion d'une newsletter. 
-livrer un modèle permettant d'obtenir un f1 score correct sachant que la variable cible connait un important déséquilibre. 
+Livrer un modèle permettant d'obtenir un f1 score correct sachant que la variable cible connait un important déséquilibre. 
 
 #### Outils : 
 
@@ -37,7 +37,7 @@ Etude de la répartition des courses uber sur la région étendue de New-York
 #### Objectif du projet : 
 
 Localisation de zones de densité géographique par l'élaboration d'algorithmes d'apprentissage automatique non-supervisé. 
-livrer un modèle de clustering capable de regrouper la demande uber en fonction de leur densité, afin de permettre a uber de positionner ses chauffeurs selon le jour de la semaine et l'heure de la journée 
+Livrer un modèle de clustering capable de regrouper la demande uber en fonction de leur densité, afin de permettre a uber de positionner ses chauffeurs selon le jour de la semaine et l'heure de la journée 
 
 #### Outils : 
 
