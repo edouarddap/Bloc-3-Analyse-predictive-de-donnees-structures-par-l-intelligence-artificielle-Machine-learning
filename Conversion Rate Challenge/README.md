@@ -1,4 +1,7 @@
-Challenge : predict conversions 🏆🏆
+PROJECTS Supervised Machine Learning
+Conversion rate challenge
+360 min
+DSW LOGO
 
 In this project, you will participate to a machine learning competition like the ones that are organized by https://www.kaggle.com/. You will be able to work with jupyter notebooks as usual, but in the end you'll have to submit your model's predictions to your teacher/TA, so your model's performances will be evaluated in an independent way. The scores achieved by the different teams will be stored into a leaderboard 🏅🏅
 Description of a machine learning challenge 🚴🚴
@@ -36,4 +39,5 @@ To complete this project, your team should:
     Analyze your best model's parameters and try to make some recommendations to improve the conversion rate in the future
 
 Helpers 🦮
+
 To help you with the methodology, we created a template (02-Conversion_rate_challenge_template.ipynb) in which all the training/predictions steps are implemented for a very basic model (logistic regression with only one variable). Please use this template and feel free to change the EDA/preprocessing/training steps ! May the force be with you 🧨🧨
