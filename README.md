@@ -32,7 +32,7 @@ Gridsearch cv, modèles de machine learning de classification,
 
 ## 3 Uber pickups
 
-Etude de la répartition des courses uber sur la région étendue de New-York 
+Etude de la répartition des courses uber sur la région de New-York 
 
 #### Objectif du projet : 
 
